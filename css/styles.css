@@ -254,6 +254,7 @@
             font-size: 1.3rem;
             /* text-align: right; */
             margin-left: 2rem;
+            margin-bottom: 2rem;
         }
 
        /* .left {
@@ -292,7 +293,7 @@
         .right {
             padding-top: 3rem; 
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
         }
 
        /* .box    {
